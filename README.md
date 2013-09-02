@@ -35,4 +35,4 @@ If you wish to call FixImport on each save, add this to your .vimrc
 
 Or you can map a command to call it manually
 
-    map <buffer> <leader>f :FixImport<CR>
+    map <leader>f :FixImport<CR>
